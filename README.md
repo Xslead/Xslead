@@ -77,7 +77,7 @@ Focus:    Full Stack · Mobile · Desktop · Web Applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xslead&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages" />
+<img src="https://github-readme-stats-xsleads-projects.vercel.app/api/top-langs/?username=Xslead&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
