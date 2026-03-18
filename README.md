@@ -81,14 +81,7 @@ Focus:    Full Stack · Mobile · Desktop · Web Applications
 
 <div align="center">
 
-```text
-TypeScript   ████████████████████░░░░░░░░░░░░░░░░░░░░   40.3%
-Dart         ████████████████░░░░░░░░░░░░░░░░░░░░░░░░   30.7%
-C#           ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░   24.2%
-Java         █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.1%
-C++          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.9%
-Python       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.5%
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xslead&layout=donut&theme=transparent&hide_border=true&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 
 </div>
 
