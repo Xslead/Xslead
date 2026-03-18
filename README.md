@@ -77,17 +77,7 @@ Focus:    Full Stack · Mobile · Desktop · Web Applications
 
 <div align="center">
 
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-pie showData
-    title Language Distribution
-    "Dart" : 38.5
-    "TypeScript" : 31.4
-    "C#" : 24.6
-    "Python" : 3.2
-    "JavaScript" : 1.3
-    "Java" : 0.5
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xslead&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
